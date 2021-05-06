@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>859868214940-3lslussd2poc6keqeq3u075mpm19f49c.apps.googleusercontent.com</string>
+	<string>276608118630-phspvlh42tqr6slbi3vke6815a3qku1o.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.859868214940-3lslussd2poc6keqeq3u075mpm19f49c</string>
+	<string>com.googleusercontent.apps.276608118630-phspvlh42tqr6slbi3vke6815a3qku1o</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBLzC2PpN2ZKycLVExqps3fZHPS7p44H2I</string>
+	<string>AIzaSyAM19haQYx3SqrpqyaLpMU9Z6H6YjoJ7yw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>859868214940</string>
+	<string>276608118630</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>AyumuTazawa.MadoriRuler</string>
+	<string>AyumuTazawa.ImageSNSPractice</string>
 	<key>PROJECT_ID</key>
-	<string>madoriruler-5d9f5</string>
+	<string>imagesnspractice</string>
 	<key>STORAGE_BUCKET</key>
-	<string>madoriruler-5d9f5.appspot.com</string>
+	<string>imagesnspractice.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:859868214940:ios:80212f56dfb0a91d975f59</string>
+	<string>1:276608118630:ios:35bd4b274f073d4cf022a7</string>
 </dict>
 </plist>
