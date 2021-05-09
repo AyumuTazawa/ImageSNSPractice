@@ -17,5 +17,11 @@ target 'ImageSNSPractice' do
   end
 
 pod 'NVActivityIndicatorView'
+pod 'Firebase/Analytics'
+pod 'FirebaseUI/Auth'
+pod 'FirebaseUI/Google'
+pod 'FirebaseUI/Facebook'
+pod 'FirebaseUI/OAuth'
+pod 'FirebaseUI/Phone'
 
 end
